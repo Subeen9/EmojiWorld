@@ -34,6 +34,13 @@ const emojipedia = [
     name: "Winking Face with Tongue",
     meaning:
       "A yellow face sticking out its tongue and making a zany wink, usually shown with its right eye closed and left wide open. Often conveys a sense of fun, excitement, wackiness, buffoonery, or joking..“."
+  },
+  {
+    id: 6,
+    emoji: "👻",
+    name: "Ghost",
+    meaning:
+      "Boo! A white, cartoon ghost making a silly face. Its tongue is stuck out and arms are outstretched, as if trying to scare someone in a friendly way. Several platforms feature one larger, bulging eye, while others show the ghost winking.“."
   }
 
 ];
